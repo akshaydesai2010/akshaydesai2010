@@ -2,7 +2,7 @@
 
 ## Software Developer
 
-Experienced software developer with over 5 years in mobile application development, specializing in Flutter and React Native. Skilled in integrating APIs and optimizing performance to deliver user-friendly applications across platforms.
+Experienced software developer with over 6 years in mobile application development, specializing in Flutter and React Native. Skilled in integrating APIs and optimizing performance to deliver user-friendly applications across platforms.
 
 ---
 
