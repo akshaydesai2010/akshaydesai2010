@@ -130,6 +130,6 @@ _NOV 2018 - JAN 2020_
 
 - [LinkedIn](https://www.linkedin.com/in/akshay-desai-9287a2264)
 - [Instagram](https://www.instagram.com/life_at_90kmph/)
-- [Email](dev.akshay2010@gmail.com)
+- [Email](mailto:dev.akshay2010@gmail.com)
 
 Feel free to explore my repositories, and I’m open to collaborating on exciting projects or discussing new ideas!
